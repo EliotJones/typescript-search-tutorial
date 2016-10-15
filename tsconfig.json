@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "app.js",
+    "noImplicitReturns": true,
+    "watch": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
